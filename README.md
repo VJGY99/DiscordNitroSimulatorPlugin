@@ -1,0 +1,2 @@
+# DiscordNitroSimulatorPlugin
+NOT OWN
